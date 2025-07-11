@@ -1,5 +1,10 @@
 # 💫 About Me:
-Mock Interview application<br>Filmpire application<br>Mock Interview application<br>Next.js<br>React.js, Javascript, Cpp, Node.js<br>I have a rare ability to switch between “code mode” and “cricket mode” like it’s Ctrl+Tab
+🔭I'm currently working on Mock Interview application<br>
+🤝I'm looking to collaborate on Filmpire application<br>
+👬I'm looking for help with Mock Interview application<br>
+🧑‍💻Currently I am learning Next.js<br>
+💬Ask me about React.js, Javascript, Cpp, Node.js<br>
+⚡️FunFact: I have a rare ability to switch between “code mode” and “cricket mode” like it’s Ctrl+Tab
 
 
 ## 🌐 Socials:
